@@ -1,0 +1,8 @@
+* Tailwind Trainning
+
+** Tesla clone UI 
+An example using tailwind css and hero icons to emulate a page similar to tesla website.
+
+
+** Instagram clone UI 
+An example using tailwind css and hero icons to emulate a page similar to Instagram.
